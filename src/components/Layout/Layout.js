@@ -5,7 +5,7 @@ import MobileNav from '../MobileNav';
 
 import { StyledContent } from './styles';
 
-const Layout = ({ user, children}) => {
+const Layout = ({ user, children }) => {
     return (
         <> 
             <MobileNav />
