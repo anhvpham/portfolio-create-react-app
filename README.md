@@ -20,4 +20,4 @@ Styled Components
 
 Carbon Design 
 
-gitconntected.com](http://gitconntected.com) portfolio  API
+gitconntected.com portfolio  API
